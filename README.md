@@ -9,6 +9,6 @@ Experiments for Simulating Animations on a Globe in Three.js
 		brew install wget
 		brew install youtube-dl
 	
-Download the resources using the download script
+2. Download the resources using the download script
 		
 		./scripts/download-resources.sh
