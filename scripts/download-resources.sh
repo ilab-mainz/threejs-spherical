@@ -194,6 +194,8 @@ TITLE "2K Earth at Night"
 THREE planets/earth_lights_2048.png
 TITLE "2K Earth black & white"
 THREE planets/earth_specular_2048.jpg
+TITLE "2K Blue Marble"
+WGET https://upload.wikimedia.org/wikipedia/commons/c/cd/Land_ocean_ice_2048.jpg
 TITLE "2K Mars Color"
 WGET https://tharsis.gsfc.nasa.gov/c2880x2160.jpg
 TITLE "2K UTM Zones"
@@ -210,7 +212,7 @@ END
 # TITLE "5K NASA Earth Relief"
 # WGET https://www.ngdc.noaa.gov/mgg/image/color_etopo1_ice_low.jpg
 # TITLE "5K NASA Oceans"
-# WGET https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73884/world.topo.bathy.200411.3x5400x2700.jpg
+# WGET https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73751/world.topo.bathy.200407.3x5400x2700.jpg
 # TITLE "Roads"
 # SOS overlays/roads/white/4096.png
 # END
